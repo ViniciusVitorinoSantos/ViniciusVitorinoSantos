@@ -36,6 +36,7 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
 # 💻 Vinícius 
 
 Olá! Sou Vinícius, um entusiasta de tecnologia e programação em busca de constante evolução. 🚀  
