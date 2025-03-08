@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   />
 </picture>
 # 💻 Vinícius | Apaixonado por Tecnologia
-
+---
 Olá! Sou Vinícius, um entusiasta de tecnologia e programação em busca de constante evolução. 🚀  
 Atualmente, estudo **Engenharia de Software** e tenho experiência em **desenvolvimento de software** e **automação industrial**.  
 
