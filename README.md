@@ -36,4 +36,26 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+# 💻 Vinícius | Apaixonado por Tecnologia
+
+Olá! Sou Vinícius, um entusiasta de tecnologia e programação em busca de constante evolução. 🚀  
+Atualmente, estudo **Engenharia de Software** e tenho experiência em **desenvolvimento de software** e **automação industrial**.  
+
+## 🛠️ Tecnologias e Ferramentas  
+- **Linguagens:** Java ☕ | C# | C | JavaScript | HTML/CSS  
+- **Desenvolvimento Web:** Spring Boot | Node.js | React  
+- **Desenvolvimento Desktop:** JavaFX | WPF  
+- **Sistemas Embarcados:** CLP Siemens (Ladder, SCL) | Arduino  
+- **Automação Industrial:** TIA Portal | WinCC | Inversores WEG e Siemens  
+- **Banco de Dados:** MySQL | PostgreSQL  
+
+## 🎯 Objetivos  
+Atualmente, estou focado em aprender **Spring Boot** para backend e aprimorar minhas habilidades em **desenvolvimento web**. Meu objetivo é trabalhar profissionalmente na área de desenvolvimento de software.  
+
+## 📌 Curiosidades sobre mim  
+- Técnico em **Eletrotécnica** e **Desenvolvimento de Sistemas** pelo **SENAI**  
+- Estudante de **Análise e Desenvolvimento de Sistemas** pela **Unicesumar**  
+- Amante de **programação, animes, filmes e UFC** 🥋  
+
+📫 Quer trocar uma ideia? Me chama aqui no GitHub ou no [LinkedIn](#)!  
 
