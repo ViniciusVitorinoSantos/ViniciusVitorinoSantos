@@ -57,5 +57,5 @@ Atualmente, estou focado em aprender **Spring Boot** para backend e aprimorar mi
 - Estudante de **Análise e Desenvolvimento de Sistemas** pela **Unicesumar**  
 - Amante de **programação, animes, filmes e UFC** 🥋  
 
-📫 Quer trocar uma ideia? Me chama aqui no GitHub ou no [LinkedIn](#https://www.linkedin.com/in/viniciusvitorinodossantos/)!  
+📫 Quer trocar uma ideia? Me chama aqui no GitHub ou no [LinkedIn](https://www.linkedin.com/in/viniciusvitorinodossantos/)!  
 
