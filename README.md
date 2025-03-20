@@ -5,7 +5,8 @@
 
 ## Olá/Hi Eu sou o Vinícius Seja Bem vindo 👋🤓😁🫣🤭
 
-![GithubCatGIF (2)](https://github.com/user-attachments/assets/cf652bc9-d341-4b81-b017-a7034445aa31)
+![GithubCatGIF (2)](https://github.com/user-attachments/assets/cf652bc9-d341-4b81-b017-a7034445aa31)![OctacatGithubGIF](https://github.com/user-attachments/assets/e55ef611-7c7b-4a66-8684-5730db7fd729)
+
 
 
 
