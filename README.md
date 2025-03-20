@@ -4,7 +4,7 @@
 
 
 ## Olá eu sou o Vinícius Seja Bem vindo → ![GithubGIF](https://github.com/user-attachments/assets/41a7fb44-e47d-4212-b20a-f19c91637c0d)
-![MatrixGithubGIF](https://github.com/user-attachments/assets/24f6cb52-d74f-4bf0-bdd2-4dd893820fc5)
+
 
 
 
