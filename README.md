@@ -3,8 +3,8 @@
 
 
 
-## Olá eu sou o Vinícius Seja Bem vindo → ![Uploading DeveloperGIF.gif…]()
-![BeeBeesGIF](https://github.com/user-attachments/assets/cdbb9d9c-6126-4df6-9d75-1000b69e66d7)
+## Olá eu sou o Vinícius Seja Bem vindo → ![WorkComputerGIF](https://github.com/user-attachments/assets/80482873-58f8-4d55-9252-dc33e242ac9b)
+
 
 
 
