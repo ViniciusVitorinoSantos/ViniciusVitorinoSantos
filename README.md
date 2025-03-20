@@ -3,7 +3,7 @@
 
 
 
-## Olá eu sou o Vinícius Seja Bem vindo → ![WorkComputerGIF](https://github.com/user-attachments/assets/80482873-58f8-4d55-9252-dc33e242ac9b)
+## Olá eu sou o Vinícius Seja Bem vindo 💻
 
 
 
@@ -46,5 +46,5 @@ Atualmente, estou focado em aprender **Spring Boot** para backend e aprimorar mi
 - Amante de **programação, animes, filmes e UFC** 🥋  
 
 📫 Quer trocar uma ideia? Me chama aqui no GitHub ou no [LinkedIn](https://www.linkedin.com/in/viniciusvitorinodossantos/)!  
-![GithubCatGIF (2)](https://github.com/user-attachments/assets/cf652bc9-d341-4b81-b017-a7034445aa31)
+![GithubCatGIF (2)](https://github.com/user-attachments/assets/cf652bc9-d341-4b81-b017-a7034445aa31)![WorkComputerGIF](https://github.com/user-attachments/assets/80482873-58f8-4d55-9252-dc33e242ac9b)
 
