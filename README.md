@@ -3,29 +3,7 @@
 
 
 
-## Olá/Hi Eu sou o Vinícius Seja Bem vindo 👋🤓😁🫣🤭
-
-![GithubCatGIF (2)](https://github.com/user-attachments/assets/cf652bc9-d341-4b81-b017-a7034445aa31)![OctacatGithubGIF](https://github.com/user-attachments/assets/e55ef611-7c7b-4a66-8684-5730db7fd729)
-
-
-
-
-<!--
-**ViniciusVitorinoSantos/ViniciusVitorinoSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JAVA.
-- 👯 I’m looking to collaborate on my code.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: In Oklahoma, USA, it is illegal to eat a piece of someone else's hamburger.
--->
-
-
+## Olá eu sou o Vinícius Seja Bem vindo 👋🤓😁🫣🤭
 
 <picture>
   <source
@@ -64,4 +42,5 @@ Atualmente, estou focado em aprender **Spring Boot** para backend e aprimorar mi
 - Amante de **programação, animes, filmes e UFC** 🥋  
 
 📫 Quer trocar uma ideia? Me chama aqui no GitHub ou no [LinkedIn](https://www.linkedin.com/in/viniciusvitorinodossantos/)!  
+![GithubCatGIF (2)](https://github.com/user-attachments/assets/cf652bc9-d341-4b81-b017-a7034445aa31)
 
