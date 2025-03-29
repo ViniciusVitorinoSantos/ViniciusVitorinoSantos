@@ -10,15 +10,6 @@
 
 
 
-
-
-
-## Olá eu sou o Vinícius Seja Bem vindo 💻
-
-
-
-
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
