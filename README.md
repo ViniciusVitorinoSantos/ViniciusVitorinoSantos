@@ -31,7 +31,7 @@ Olá! Sou Vinícius, um entusiasta de tecnologia e programação em busca de con
 Atualmente, estudo **Engenharia de Software** e tenho experiência em **desenvolvimento de software** e **automação industrial**.  
 
 ## 🛠️ Tecnologias e Ferramentas  
-- **Linguagens:** Java ☕ | JavaScript | HTML/CSS  
+- **Linguagens:** Java ☕ | JavaScript | HTML | CSS  
 - **Desenvolvimento Web:** Spring Boot | Node.js | React  
 - **Desenvolvimento Desktop:** JavaFX | WPF  
 - **Sistemas Embarcados:** CLP Siemens (Ladder, SCL) | Arduino  
