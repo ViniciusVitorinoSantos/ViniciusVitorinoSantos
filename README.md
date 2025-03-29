@@ -25,7 +25,7 @@
   />
 </picture>
 
-# 💻 About me.
+# 💻 About.me
 
 Olá! Sou Vinícius, um entusiasta de tecnologia e programação em busca de constante evolução. 🚀  
 Atualmente, estudo **Análise e desenvolvimento de sistemas** e tenho experiência em **desenvolvimento de software** e **automação industrial**.  
