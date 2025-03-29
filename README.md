@@ -2,11 +2,12 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusVitorinoSantos&show_icons=true&theme=green_nur)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniciusVitorinoSantos&show_icons=true&theme=merko&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVitorinoSantos&layout=compact&theme=green_nur)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVitorinoSantos&layout=compact&theme=merko&bg_color=00000000)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ViniciusVitorinoSantos&theme=green_nur)
+![GitHub Streak](https://streak-stats.demolab.com?user=ViniciusVitorinoSantos&theme=merko&background=00000000)
+
 
 
 
