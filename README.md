@@ -33,7 +33,7 @@ Atualmente, estudo **Engenharia de Software** e tenho experiência em **desenvol
 ## 🛠️ Tecnologias e Ferramentas  
 - **Linguagens:** Java ☕ | JavaScript | HTML | CSS  
 - **Desenvolvimento Web:** Spring Boot | Node.js | React  
-- **Desenvolvimento Desktop:** JavaFX  
+- **Desenvolvimento Desktop:** JavaFX | Java Swing
 - **Sistemas Embarcados:** CLP Siemens (Ladder, SCL) | Arduino  
 - **Automação Industrial:** TIA Portal | WinCC | Inversores WEG e Siemens  
 - **Banco de Dados:** MySQL | PostgreSQL  
