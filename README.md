@@ -1,5 +1,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vinicius.v.santos) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorino_vini/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusvitorinodossantos/)
 
+https://github-readme-stats.vercel.app/api?username=ViniciusVitorinoSantos&show_icons=true&theme=radical
 
 
 
